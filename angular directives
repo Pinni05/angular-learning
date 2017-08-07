@@ -1,0 +1,16 @@
+AngularJS Directives:
+
+The following table lists the important built-in AngularJS directives.
+
+Directive	Description
+ng-app:	Auto bootstrap AngularJS application.
+ng-init:	Initializes AngularJS variables
+ng-model:	Binds HTML control's value to a property on the $scope object.
+ng-controller:	Attaches the controller of MVC to the view.
+ng-bind:	Replaces the value of HTML control with the value of specified AngularJS expression.
+ng-repeat:	Repeats HTML template once per each item in the specified collection.
+ng-show:	Display HTML element based on the value of the specified expression.
+ng-readonly:	Makes HTML element read-only based on the value of the specified expression.
+ng-disabled:	Sets the disable attribute on the HTML element if specified expression evaluates to true.
+ng-if:	Removes or recreates HTML element based on an expression.
+ng-click:	Specifies custom behavior when an element is clicked.
